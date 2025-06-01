@@ -16,5 +16,6 @@ public class fizzbuzz {
                 } else {
                     System.out.println(i);
                 }
+        scanner.close();
         }
     }
